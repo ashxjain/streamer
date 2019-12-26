@@ -1,5 +1,5 @@
-# streamer
-Single publisher Multiple subscribers
+# Streamer
+Single Publisher Multiple Subscribers
 
 * Streamer is a simple library written to stream messages from one source (publisher) to multiple destinations (subscribers)
-* It uses golang channels to achieve this
+* It uses Golang Channels to achieve this
